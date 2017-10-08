@@ -1,0 +1,11 @@
+img{
+     width:100%;
+     border:1px solid #ccc;
+     border-radius:10px;
+     padding:8px;
+ }
+.classified-controll form{
+    float:right;
+    display: inline;
+    margin-left:10px;
+}
